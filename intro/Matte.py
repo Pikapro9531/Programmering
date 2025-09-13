@@ -11,7 +11,7 @@ def divide(x, y):
 def subtrakt(x, y):
     return x-y
 
-print("Välj 2 nummer du skulle vilha använda")
+print("Du ska välja 2 nummer du skulle vilha använda. Sjriv det första nu.")
 number = input()
 number = int(number)
 
