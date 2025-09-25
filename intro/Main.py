@@ -1,11 +1,4 @@
-print("Varför läser du detta?")
-print("Vad heter du?")
-Namn = input()
-print("Hej", Namn, "Trevligt att träffas! Jag heter Robert")
-print("Hur gammal är du?")
-Ålder = input()
-print("Wow", Namn, "Så du är", Ålder, "år gammal!")
-print("Vill du veta något kul?")
-print ("Jag är kodad att säga detta")
-print("Så om jag säger att jag är din vän, är det falskt.")
-print("Om jag säger något snällt, är det falskt.")
+import datetime
+
+print("aaaa")
+print()
